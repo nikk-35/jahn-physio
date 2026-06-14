@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[52867,["/_next/static/chunks/3jwe46w390bg2.js","/_next/static/chunks/2tfou4_dzb9qj.js"],"ViewportBoundary"]
+3:I[52867,["/_next/static/chunks/3jwe46w390bg2.js","/_next/static/chunks/2tfou4_dzb9qj.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[36356,["/_next/static/chunks/3jwe46w390bg2.js","/_next/static/chunks/2tfou4_dzb9qj.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Jahn Physiotherapie – Ihre Gesundheit. Unsere Leidenschaft."}],["$","meta","1",{"name":"description","content":"Physiotherapie in Langgöns seit über 20 Jahren. Krankengymnastik, Manuelle Therapie, Massage und mehr. Thomas Jahn – Ihr vertrauensvoller Physiotherapeut."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"V95o47Oikj2VzxoOZfZhv"}
